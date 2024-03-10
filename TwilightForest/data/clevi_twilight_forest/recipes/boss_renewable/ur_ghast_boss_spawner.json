@@ -1,0 +1,19 @@
+{
+    "type":"crafting_shaped",
+    "result": {
+        "item": "twilightforest:ur_ghast_boss_spawner",
+        "count": 1
+    },
+    "pattern": [
+        "bbb",
+        "mcm",
+        "btb"
+    ],
+    "key": {
+        "b":{"item":"minecraft:iron_bars"},
+        "c":{"item":"twilightforest:fiery_tears"},
+        "t":{"item":"minecraft:totem_of_undying"},
+        "m":{"item":"twilightforest:carminite"}
+
+    }
+}

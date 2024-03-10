@@ -1,0 +1,18 @@
+{
+    "type":"crafting_shaped",
+    "result": {
+        "item": "twilightforest:knight_phantom_boss_spawner",
+        "count": 1
+    },
+    "pattern": [
+        "bbb",
+        "bcb",
+        "btb"
+    ],
+    "key": {
+        "b":{"item":"minecraft:iron_bars"},
+        "c":{"item":"twilightforest:knightmetal_ingot"},
+        "t":{"item":"minecraft:totem_of_undying"}
+
+    }
+}

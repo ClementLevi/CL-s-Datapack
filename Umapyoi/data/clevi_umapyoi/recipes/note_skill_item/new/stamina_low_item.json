@@ -1,0 +1,17 @@
+{
+    "type": "crafting_shaped",
+    "result":{
+        "item":"umapyoi:stamina_low_item"
+    },
+    "pattern": [
+        " b ",
+        "fjf",
+        " f "
+    ],
+    "key": {
+        "b":{"item":"minecraft:book"},
+        "f":{"item":"minecraft:golden_apple"},
+        "j":{"item":"umapyoi:jewel"}
+    }
+    
+}

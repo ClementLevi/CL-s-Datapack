@@ -1,0 +1,17 @@
+{
+    "type": "crafting_shaped",
+    "result":{
+        "item":"umapyoi:wisdom_low_item"
+    },
+    "pattern": [
+        " b ",
+        "fjf",
+        " f "
+    ],
+    "key": {
+        "b":{"item":"minecraft:book"},
+        "f":{"item":"minecraft:ender_pearl"},
+        "j":{"item":"umapyoi:jewel"}
+    }
+    
+}

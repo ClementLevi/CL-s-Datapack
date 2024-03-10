@@ -1,0 +1,19 @@
+{
+    "type":"crafting_shaped",
+    "result": {
+        "item": "twilightforest:minoshroom_boss_spawner",
+        "count": 1
+    },
+    "pattern": [
+        "bmb",
+        "mcm",
+        "btb"
+    ],
+    "key": {
+        "b":{"item":"minecraft:iron_bars"},
+        "c":{"item":"twilightforest:meef_stroganoff"},
+        "t":{"item":"minecraft:totem_of_undying"},
+        "m":{"item":"minecraft:red_mushroom"}
+
+    }
+}

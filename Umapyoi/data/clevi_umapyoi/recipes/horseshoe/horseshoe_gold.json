@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shaped",
+    "result": {
+        "item": "umapyoi:horseshoe_gold"
+    },
+    "pattern": [
+        " i ",
+        "ici",
+        " i "
+    ],
+    "key": {
+        "i":{"tag":"forge:ingots/gold"},
+        "c":{"item": "umapyoi:horseshoe_silver"}
+    }
+}

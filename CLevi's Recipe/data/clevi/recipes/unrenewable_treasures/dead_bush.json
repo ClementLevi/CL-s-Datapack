@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "result": {
+        "item": "minecraft:dead_bush"
+    },
+    "ingredients": [
+        [{
+            "item": "minecraft:slime_ball"
+        }],
+        [{
+            "item": "minecraft:stick"
+        }],
+        [{
+            "item": "minecraft:stick"
+        }],
+        [{
+            "item": "minecraft:stick"
+        }],
+        [{
+            "item": "minecraft:stick"
+        }]
+    ]
+}

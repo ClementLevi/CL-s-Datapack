@@ -1,0 +1,19 @@
+{
+    "type":"crafting_shaped",
+    "result": {
+        "item": "twilightforest:lich_boss_spawner",
+        "count": 1
+    },
+    "pattern": [
+        "bpb",
+        "pcp",
+        "btb"
+    ],
+    "key": {
+        "b":{"item":"minecraft:iron_bars"},
+        "c":{"item":"minecraft:ender_pearl"},
+        "t":{"item":"minecraft:totem_of_undying"},
+        "p":{"item":"minecraft:painting"}
+
+    }
+}

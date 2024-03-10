@@ -1,0 +1,16 @@
+{
+    "type": "crafting_shaped",
+    "result": {
+        "item": "twilightforest:wither_skeleton_skull_candle"
+    },
+    "pattern": [
+        " c ",
+        " i ",
+        "   "
+    ],
+    "key": {
+        "c":{"tag": "minecraft:candles"},
+        "i":{"item":"minecraft:wither_skeleton_skull"}
+    }
+
+}

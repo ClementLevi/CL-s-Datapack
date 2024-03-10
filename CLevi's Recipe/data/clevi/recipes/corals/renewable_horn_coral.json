@@ -1,0 +1,10 @@
+{
+    "type": "crafting_shapeless",
+    "result": {
+        "item": "minecraft:horn_coral"
+    },
+    "ingredients": [
+        {"item": "horn_coral_fan"}
+
+    ]
+}

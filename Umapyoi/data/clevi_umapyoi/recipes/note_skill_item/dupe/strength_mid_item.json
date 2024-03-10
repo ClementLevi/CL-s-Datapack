@@ -1,0 +1,11 @@
+{
+    "type": "crafting_shapeless",
+    "result":{
+        "item":"umapyoi:strength_mid_item"
+    },
+    "ingredients": [
+        {"item":"umapyoi:strength_mid_item"},
+        {"item":"umapyoi:strength_mid_item"},
+        {"item":"book"}
+    ]
+}

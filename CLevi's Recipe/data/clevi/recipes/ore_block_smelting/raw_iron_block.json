@@ -1,0 +1,5 @@
+{
+    "type": "smelting",
+    "result": "iron_block",
+    "ingredient": { "item": "raw_iron_block" }
+}

@@ -1,0 +1,17 @@
+{
+    "type": "crafting_shaped",
+    "result": {
+        "item": "twilightforest:candelabra",
+        "count": 2
+    },
+    "pattern": [
+        "ccc",
+        "iii",
+        " i "
+    ],
+    "key": {
+        "c":{"tag": "minecraft:candles"},
+        "i":{"item":"minecraft:iron_ingot"}
+    }
+
+}

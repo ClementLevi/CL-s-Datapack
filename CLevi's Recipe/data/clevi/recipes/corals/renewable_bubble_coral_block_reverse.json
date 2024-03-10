@@ -1,0 +1,10 @@
+{
+    "type": "crafting_shapeless",
+    "result": {
+        "item": "minecraft:bubble_coral_fan",
+        "count": 4
+    },
+    "ingredients": [
+        {"item": "bubble_coral_block"}
+    ]
+}

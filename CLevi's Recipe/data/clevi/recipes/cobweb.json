@@ -1,0 +1,20 @@
+{
+    "type": "crafting_shaped",
+    "result": {
+        "item": "minecraft:cobweb",
+        "count": 1
+    },
+    "pattern":[
+        "sos",
+        "oso",
+        "sos"
+    ],
+    "key":{
+        "s":{
+            "item": "minecraft:string"
+        },
+        "o":{
+            "item": "minecraft:slime_ball"
+        }
+    }
+}

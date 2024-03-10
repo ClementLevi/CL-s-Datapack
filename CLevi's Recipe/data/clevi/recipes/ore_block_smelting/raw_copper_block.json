@@ -1,0 +1,5 @@
+{
+    "type": "smelting",
+    "result": "copper_block",
+    "ingredient": { "item": "raw_copper_block" }
+}

@@ -1,0 +1,9 @@
+{
+    "type": "crafting_shapeless",
+    "result": {
+        "item": "minecraft:tube_coral"
+    },
+    "ingredients": [
+        {"item": "tube_coral_fan"}
+    ]
+}

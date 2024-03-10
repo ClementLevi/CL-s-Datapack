@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "result": {
+        "item": "minecraft:dragon_head",
+        "count": 1
+    },
+    "pattern": [
+        "s s",
+        "bbe",
+        "t t"
+    ],
+    "key": {
+        "s":{
+            "item":"minecraft:stone_button"
+        },
+        "e":{
+            "item":"minecraft:dragon_egg"
+        },
+        "b":{
+            "item":"minecraft:obsidian"
+        },
+        "t":{
+            "item":"minecraft:dragon_breath"
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "result": {
+        "item": "minecraft:gilded_blackstone",
+        "count": 5
+    },
+    "pattern":[
+        "sos",
+        "oso",
+        "sos"
+    ],
+    "key":{
+        "s":{
+            "item": "minecraft:blackstone"
+        },
+        "o":{
+            "item": "minecraft:gold_ingot"
+        }
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "type": "crafting_shapeless",
+    "result": {
+        "item": "umapyoi:cupcake"
+    },
+    "ingredients": [
+        {"item": "minecraft:paper"},
+        {"item": "croptopia:tres_leche_cake"}
+    ]
+}

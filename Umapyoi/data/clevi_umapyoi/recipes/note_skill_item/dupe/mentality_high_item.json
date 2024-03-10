@@ -1,0 +1,11 @@
+{
+    "type": "crafting_shapeless",
+    "result":{
+        "item":"umapyoi:mentality_high_item"
+    },
+    "ingredients": [
+        {"item":"umapyoi:mentality_mid_item"},
+        {"item":"umapyoi:mentality_mid_item"},
+        {"item":"book"}
+    ]
+}

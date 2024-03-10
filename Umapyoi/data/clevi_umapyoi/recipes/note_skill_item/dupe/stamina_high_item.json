@@ -1,0 +1,11 @@
+{
+    "type": "crafting_shapeless",
+    "result":{
+        "item":"umapyoi:stamina_high_item"
+    },
+    "ingredients": [
+        {"item":"umapyoi:stamina_mid_item"},
+        {"item":"umapyoi:stamina_mid_item"},
+        {"item":"book"}
+    ]
+}

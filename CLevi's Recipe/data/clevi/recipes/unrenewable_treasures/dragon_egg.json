@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "result": {
+        "item": "minecraft:dragon_egg",
+        "count": 1
+    },
+    "pattern": [
+        " b ",
+        "cec",
+        " b "
+    ],
+    "key": {
+        "e":{
+            "item":"minecraft:egg"
+        },
+        "c":{
+            "item":"minecraft:end_crystal"
+        },
+        "b":{
+            "item":"minecraft:dragon_breath"
+        }
+    }
+}

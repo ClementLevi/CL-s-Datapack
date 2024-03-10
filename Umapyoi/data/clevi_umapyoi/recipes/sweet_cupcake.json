@@ -1,0 +1,10 @@
+{
+    "type": "crafting_shapeless",
+    "result": {
+        "item": "umapyoi:sweet_cupcake"
+    },
+    "ingredients": [
+        {"item": "umapyoi:cupcake"},
+        {"item": "minecraft:sugar"}
+    ]
+}

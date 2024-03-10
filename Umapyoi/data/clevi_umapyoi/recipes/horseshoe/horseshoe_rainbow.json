@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shaped",
+    "result": {
+        "item": "umapyoi:horseshoe_rainbow"
+    },
+    "pattern": [
+        "iii",
+        "ici",
+        "iii"
+    ],
+    "key": {
+        "i":{"item":"umapyoi:jewel"},
+        "c":{"item": "umapyoi:horseshoe_gold"}
+    }
+}

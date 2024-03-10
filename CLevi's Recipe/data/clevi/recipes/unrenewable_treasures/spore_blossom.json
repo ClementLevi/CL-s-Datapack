@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "result": {
+        "item": "minecraft:spore_blossom"
+    },
+    "pattern": [
+        " f ",
+        "fgf",
+        " f "
+    ],
+    "key": {
+        "f":{
+            "item":"minecraft:poppy"
+        },
+        "g":{
+            "item":"minecraft:moss_block"
+        }
+
+    }
+}

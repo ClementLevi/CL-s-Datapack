@@ -1,0 +1,16 @@
+{
+    "type": "crafting_shaped",
+    "result": {
+        "item": "twilightforest:creeper_skull_candle"
+    },
+    "pattern": [
+        " c ",
+        " i ",
+        "   "
+    ],
+    "key": {
+        "c":{"tag": "minecraft:candles"},
+        "i":{"item":"minecraft:creeper_head"}
+    }
+
+}

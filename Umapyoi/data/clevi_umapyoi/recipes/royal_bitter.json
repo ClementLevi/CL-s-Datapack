@@ -1,0 +1,14 @@
+{
+    "type": "crafting_shapeless",
+    "result": {
+        "item": "umapyoi:royal_bitter"
+    },
+    "ingredients": [
+        {"item": "croptopia:kale"},
+        {"item": "croptopia:kale"},
+        {"item": "croptopia:barley"},
+        {"item": "croptopia:barley"},
+        {"item": "minecraft:potion"},
+        {"item": "croptopia:food_press"}
+    ]
+}

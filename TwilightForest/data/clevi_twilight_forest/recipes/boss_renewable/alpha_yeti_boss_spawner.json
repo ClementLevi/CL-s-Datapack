@@ -1,0 +1,19 @@
+{
+    "type":"crafting_shaped",
+    "result": {
+        "item": "twilightforest:alpha_yeti_boss_spawner",
+        "count": 1
+    },
+    "pattern": [
+        "bbb",
+        "mcm",
+        "btb"
+    ],
+    "key": {
+        "b":{"item":"minecraft:iron_bars"},
+        "c":{"item":"twilightforest:ice_bomb"},
+        "t":{"item":"minecraft:totem_of_undying"},
+        "m":{"item":"twilightforest:alpha_yeti_fur"}
+
+    }
+}

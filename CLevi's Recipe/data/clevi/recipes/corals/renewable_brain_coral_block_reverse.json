@@ -1,0 +1,10 @@
+{
+    "type": "crafting_shapeless",
+    "result": {
+        "item": "minecraft:brain_coral_fan",
+        "count": 4
+    },
+    "ingredients": [
+        {"item": "brain_coral_block"}
+    ]
+}

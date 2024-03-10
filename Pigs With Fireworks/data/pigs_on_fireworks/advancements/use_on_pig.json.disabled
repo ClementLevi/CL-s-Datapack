@@ -1,0 +1,16 @@
+{
+    "criteria": {
+      "use_on_pig": {
+        "trigger": "minecraft:player_interacted_with_entity",
+        "conditions": {
+          "entity": {
+            "type": "minecraft:pig"
+          },
+          "item": {
+            "item": "minecraft:firework_rocket"
+          }
+        }
+      }
+    },
+    "rewards": { "function": "pigs_on_fireworks:use_on_pig"}
+  }

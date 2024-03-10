@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "result": {
+        "item":"minecraft:dragon_breath"
+    },
+    "pattern": [
+        "ooo",
+        " g ",
+        " w "
+    ],
+    "key": {
+        "o":{
+            "item": "minecraft:chorus_fruit"
+        },
+        "g":{
+            "item": "minecraft:gold_ingot"
+        },
+        "w":{
+            "item": "minecraft:potion"
+        }
+    }
+}

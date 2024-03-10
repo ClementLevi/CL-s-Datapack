@@ -1,0 +1,16 @@
+{
+    "type": "crafting_shaped",
+    "result": {
+        "item": "umapyoi:horseshoe_silver"
+    },
+    "pattern": [
+        " i ",
+        "ici",
+        " a "
+    ],
+    "key": {
+        "i":{"tag":"forge:ingots/iron"},
+        "c":{"item": "umapyoi:jewel"},
+        "a":{"tag":"forge:gems/amethyst"}
+    }
+}

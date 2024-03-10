@@ -1,0 +1,6 @@
+﻿{
+	"pack": {
+		"pack_format": 4,
+		"description": "Pillager's Gun 存在射弹实体不会despawn的bug，这个数据包添加了pillagers_gun:clear_bullets命令来手动清除它们。"
+	}
+}

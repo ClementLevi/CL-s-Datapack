@@ -1,0 +1,17 @@
+{
+    "type": "crafting_shaped",
+    "result":{
+        "item":"umapyoi:mentality_low_item"
+    },
+    "pattern": [
+        " b ",
+        "fjf",
+        " f "
+    ],
+    "key": {
+        "b":{"item":"minecraft:book"},
+        "f":{"item":"minecraft:scute"},
+        "j":{"item":"umapyoi:jewel"}
+    }
+    
+}

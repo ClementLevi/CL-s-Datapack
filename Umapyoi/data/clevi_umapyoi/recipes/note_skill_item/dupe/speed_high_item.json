@@ -1,0 +1,11 @@
+{
+    "type": "crafting_shapeless",
+    "result":{
+        "item":"umapyoi:speed_high_item"
+    },
+    "ingredients": [
+        {"item":"umapyoi:speed_mid_item"},
+        {"item":"umapyoi:speed_mid_item"},
+        {"item":"book"}
+    ]
+}
