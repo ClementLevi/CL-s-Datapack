@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": ["PGP", "GAG", "PGP"],
+    "key": {
+        "G": {
+            "item": "minecraft:gold_block"
+        },
+        "A": {
+            "item": "minecraft:golden_apple"
+        },
+        "P": {
+            "item": "minecraft:ender_pearl"
+        }
+    },
+    "result": {
+        "item": "minecraft:enchanted_golden_apple",
+        "count": 1
+    }
+}
