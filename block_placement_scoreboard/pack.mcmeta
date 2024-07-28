@@ -1,0 +1,6 @@
+{
+    "pack": {
+        "pack_format": 48,
+        "description": "Block placement scoreboard, logs any block placement regardless of which type it was.\n方块放置计分板，只计数不管种类"
+    }
+}

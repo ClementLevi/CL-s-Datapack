@@ -1,0 +1,25 @@
+{
+    "display": {
+        "hidden": true,
+        "show_toast": false,
+        "announce_to_chat": false,
+        "description": {
+            "text": "放置了任意方块"
+        },
+        "icon": {
+            "id": "blaze_rod"
+        },
+        "title": {
+            "text": "放置方块"
+        }
+    },
+    "criteria": {
+        "placed_block": {
+            "trigger": "minecraft:placed_block",
+            "conditions": {}
+        }
+    },
+    "rewards": {
+        "function": "clevi:block_placement/after_placed_block"
+    }
+}
