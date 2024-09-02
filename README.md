@@ -37,6 +37,8 @@
 
 对猪脚下所在方块使用烟花火箭时，猪会随着烟花起飞，并正常受到摔落伤害。
 
+移植自MCReator模组[Pigs with Fireworks](https://www.curseforge.com/minecraft/mc-mods/pigs-with-fireworks)
+
 | INFO | VALUE          |
 | ---- | -------------- |
 | 版本 | 未测试最低版本 |
